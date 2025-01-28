@@ -1,3 +1,5 @@
+package secao12.comparacaoGenerics.comGenerics;
+
 public class Caixa <T>{
 
     private T coisa;

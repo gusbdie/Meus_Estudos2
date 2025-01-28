@@ -1,3 +1,5 @@
+package secao12.comparacaoGenerics.comGenerics;
+
 public class CaixaTeste {
 //Assim não preciso me preocupar em todo vez deixar 
 //explicito o tipo da variável
